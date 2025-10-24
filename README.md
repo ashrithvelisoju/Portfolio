@@ -157,7 +157,7 @@ This will:
 
 - **Portfolio**: [https://ashrithvelisoju.github.io/Portfolio/](https://ashrithvelisoju.github.io/Portfolio/)
 - **GitHub**: [@ashrithvelisoju](https://github.com/ashrithvelisoju)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/ashrithvelisoju)
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/ashrith-velisoju)
 
 ---
 
